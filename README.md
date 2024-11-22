@@ -8,7 +8,7 @@ Sou cientista de dados, com foco em Python (Pandas, Numpy, Matplotlib, Seaborn, 
 
 
 Estudar é um hobbie e ensinar um prazer, espero poder colaborar com vários projetos aqui e compartilhar um pouco do que aprendi.
-👨‍🎓
+🚀
 
 
 <div style="display: inline-block"> 
